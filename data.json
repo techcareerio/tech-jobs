@@ -19,5 +19,16 @@
         }
       }
     }
+  },
+  "Didi": {
+    "url": "https://boards.greenhouse.io/didi",
+    "jobs": {
+      "Data Scientist": {
+        "senior": {
+          "available": true,
+          "url": "https://boards.greenhouse.io/didi/jobs/1009274"
+        }
+      }
+    }
   }
 }
