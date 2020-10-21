@@ -1,0 +1,23 @@
+{
+  "Robinhood": {
+    "url": "https://careers.robinhood.com/openings",
+    "jobs": {
+      "softwareEngineer": {
+        "intern": {
+          "available": true,
+          "url": "https://careers.robinhood.com/openings?gh_jid=2214461"
+        },
+        "newGrad": {
+          "available": true,
+          "url": "https://careers.robinhood.com/openings?gh_jid=2214220"
+        },
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": true
+        }
+      }
+    }
+  }
+}
