@@ -10,7 +10,7 @@ We plan to publish the data in a way that can be searched and filtered soon.
 
 If you company is hiring, you can add your job openings. You can do this in two ways:
 
-1. Fill out this form and submit. We will review submissions and add the information you provide to our dataset.
+1. Fill out [this form](https://techcareer.typeform.com/to/CkuOZwKa) and submit. We will review submissions and add the information you provide to our dataset.
 2. Create a Pull Request to update [`data.json`](https://github.com/techcareerio/tech-jobs/blob/main/data.json). We will review your Pull Request and then merge your change.
 
 ## Data Structure
