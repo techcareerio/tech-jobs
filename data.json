@@ -2,7 +2,7 @@
   "Robinhood": {
     "url": "https://careers.robinhood.com/openings",
     "jobs": {
-      "softwareEngineer": {
+      "SoftwareEngineer": {
         "intern": {
           "available": true,
           "url": "https://careers.robinhood.com/openings?gh_jid=2214461"
@@ -27,6 +27,108 @@
         "senior": {
           "available": true,
           "url": "https://boards.greenhouse.io/didi/jobs/1009274"
+        }
+      }
+    }
+  },
+  "Figma": {
+    "url": "https://jobs.lever.co/figma",
+    "jobs": {
+      "SoftwareEngineer": {
+         "intern": {
+          "available": true,
+          "url": "https://jobs.lever.co/figma/4fe2557e-3ac3-49ea-8330-9e6c49493f8e"
+        },
+        "newGrad": {
+          "available": true,
+          "url": "https://jobs.lever.co/figma/31f60538-9c04-4dd3-821d-7980370f9be3"
+        },
+        "senior": {
+          "available": true,
+          "url":"https://jobs.lever.co/figma/727be887-fa16-45fa-93a0-c5e14510a079"
+        },
+        "manager": {
+          "available": true
+        }
+      }
+    }
+  },
+  "Brex": {
+    "url": "https://www.brex.com/careers/",
+    "jobs": {
+      "SoftwareEngineer": {
+         "intern": {
+          "available": false
+        },
+        "newGrad": {
+          "available": false
+        },
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": true
+        }
+      }
+    }
+  },
+  "RunTheWorld": {
+    "url": "https://jobs.lever.co/runtheworld/",
+    "jobs": {
+      "SoftwareEngineer": {
+         "intern": {
+          "available": false
+        },
+        "newGrad": {
+          "available": false
+        },
+        "senior": {
+          "available": true,
+          "url":"https://jobs.lever.co/runtheworld/6e7b47da-aa7a-4c68-8d18-f25dc356be9f"
+        },
+        "manager": {
+          "available": false
+        }
+      }
+    }
+  },
+  "akuna capital": {
+    "url": "https://akunacapital.com/careers",
+    "jobs": {
+      "SoftwareEngineer": {
+        "intern": {
+          "available": true
+        },
+        "newGrad": {
+          "available": true,
+          "url": "https://akunacapital.com/job-details?gh_jid=2236978&gh_src=fcb01e3f1us"
+        },
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": true
+        }
+      }
+    }
+  },
+  "eBay": {
+    "url": "https://jobs.ebayinc.com/search-jobs/Software%20Engineer/403/1",
+    "jobs": {
+      "SoftwareEngineer": {
+        "intern": {
+          "available": true,
+          "url": "https://jobs.ebayinc.com/job/san-jose/software-engineer-intern/403/1006890272"
+        },
+        "newGrad": {
+          "available": true,
+          "url": "https://jobs.ebayinc.com/job/san-jose/software-engineer-recent-graduate/403/1054728320"
+        },
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": false
         }
       }
     }
