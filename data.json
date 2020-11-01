@@ -2,7 +2,7 @@
   "Robinhood": {
     "url": "https://careers.robinhood.com/openings",
     "jobs": {
-      "SoftwareEngineer": {
+      "softwareEngineer": {
         "intern": {
           "available": true,
           "url": "https://careers.robinhood.com/openings?gh_jid=2214461"
@@ -23,7 +23,7 @@
   "Didi": {
     "url": "https://boards.greenhouse.io/didi",
     "jobs": {
-      "Data Scientist": {
+      "dataScientist": {
         "senior": {
           "available": true,
           "url": "https://boards.greenhouse.io/didi/jobs/1009274"
@@ -34,7 +34,7 @@
   "Figma": {
     "url": "https://jobs.lever.co/figma",
     "jobs": {
-      "SoftwareEngineer": {
+      "softwareEngineer": {
          "intern": {
           "available": true,
           "url": "https://jobs.lever.co/figma/4fe2557e-3ac3-49ea-8330-9e6c49493f8e"
@@ -56,7 +56,7 @@
   "Brex": {
     "url": "https://www.brex.com/careers/",
     "jobs": {
-      "SoftwareEngineer": {
+      "softwareEngineer": {
          "intern": {
           "available": false
         },
@@ -75,7 +75,7 @@
   "RunTheWorld": {
     "url": "https://jobs.lever.co/runtheworld/",
     "jobs": {
-      "SoftwareEngineer": {
+      "softwareEngineer": {
          "intern": {
           "available": false
         },
@@ -92,10 +92,10 @@
       }
     }
   },
-  "akuna capital": {
+  "Akuna Capital": {
     "url": "https://akunacapital.com/careers",
     "jobs": {
-      "SoftwareEngineer": {
+      "softwareEngineer": {
         "intern": {
           "available": true
         },
@@ -115,7 +115,7 @@
   "eBay": {
     "url": "https://jobs.ebayinc.com/search-jobs/Software%20Engineer/403/1",
     "jobs": {
-      "SoftwareEngineer": {
+      "softwareEngineer": {
         "intern": {
           "available": true,
           "url": "https://jobs.ebayinc.com/job/san-jose/software-engineer-intern/403/1006890272"
