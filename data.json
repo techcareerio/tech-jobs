@@ -38,6 +38,16 @@
       }
     }
   },
+  "Color": {
+    "url": "https://jobs.lever.co/color",
+    "jobs": {
+      "softwareEngineer": {
+        "senior": {
+          "available": true
+        }
+      }
+    }
+  },
   "Didi": {
     "url": "https://boards.greenhouse.io/didi",
     "jobs": {
@@ -45,6 +55,19 @@
         "senior": {
           "available": true,
           "url": "https://boards.greenhouse.io/didi/jobs/1009274"
+        }
+      }
+    }
+  },
+  "Discord": {
+    "url": "https://discord.com/jobs?team=engineering",
+    "jobs": {
+      "softwareEngineer": {
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": true
         }
       }
     }
@@ -67,6 +90,16 @@
         },
         "manager": {
           "available": true
+        }
+      }
+    }
+  },
+  "Icebreaker": {
+    "jobs": {
+      "softwareEngineer": {
+        "senior": {
+          "available": true,
+          "url": "https://icebreaker.video/product-engineer"
         }
       }
     }
@@ -108,6 +141,19 @@
         },
         "manager": {
           "available": false
+        }
+      }
+    }
+  },
+  "TikTok": {
+    "url": "https://careers.tiktok.com/position?category=6704215862603155720",
+    "jobs": {
+      "softwareEngineer": {
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": true
         }
       }
     }
