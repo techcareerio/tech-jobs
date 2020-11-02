@@ -1,15 +1,33 @@
 {
-  "Robinhood": {
-    "url": "https://careers.robinhood.com/openings",
+  "Akuna Capital": {
+    "Brex": {
+      "url": "https://www.brex.com/careers/",
+      "jobs": {
+        "softwareEngineer": {
+          "intern": {
+            "available": false
+          },
+          "newGrad": {
+            "available": false
+          },
+          "senior": {
+            "available": true
+          },
+          "manager": {
+            "available": true
+          }
+        }
+      }
+    },
+    "url": "https://akunacapital.com/careers",
     "jobs": {
       "softwareEngineer": {
         "intern": {
-          "available": true,
-          "url": "https://careers.robinhood.com/openings?gh_jid=2214461"
+          "available": true
         },
         "newGrad": {
           "available": true,
-          "url": "https://careers.robinhood.com/openings?gh_jid=2214220"
+          "url": "https://akunacapital.com/job-details?gh_jid=2236978&gh_src=fcb01e3f1us"
         },
         "senior": {
           "available": true
@@ -35,7 +53,7 @@
     "url": "https://jobs.lever.co/figma",
     "jobs": {
       "softwareEngineer": {
-         "intern": {
+        "intern": {
           "available": true,
           "url": "https://jobs.lever.co/figma/4fe2557e-3ac3-49ea-8330-9e6c49493f8e"
         },
@@ -45,7 +63,7 @@
         },
         "senior": {
           "available": true,
-          "url":"https://jobs.lever.co/figma/727be887-fa16-45fa-93a0-c5e14510a079"
+          "url": "https://jobs.lever.co/figma/727be887-fa16-45fa-93a0-c5e14510a079"
         },
         "manager": {
           "available": true
@@ -53,15 +71,17 @@
       }
     }
   },
-  "Brex": {
-    "url": "https://www.brex.com/careers/",
+  "Robinhood": {
+    "url": "https://careers.robinhood.com/openings",
     "jobs": {
       "softwareEngineer": {
-         "intern": {
-          "available": false
+        "intern": {
+          "available": true,
+          "url": "https://careers.robinhood.com/openings?gh_jid=2214461"
         },
         "newGrad": {
-          "available": false
+          "available": true,
+          "url": "https://careers.robinhood.com/openings?gh_jid=2214220"
         },
         "senior": {
           "available": true
@@ -76,38 +96,18 @@
     "url": "https://jobs.lever.co/runtheworld/",
     "jobs": {
       "softwareEngineer": {
-         "intern": {
-          "available": false
-        },
-        "newGrad": {
-          "available": false
-        },
-        "senior": {
-          "available": true,
-          "url":"https://jobs.lever.co/runtheworld/6e7b47da-aa7a-4c68-8d18-f25dc356be9f"
-        },
-        "manager": {
-          "available": false
-        }
-      }
-    }
-  },
-  "Akuna Capital": {
-    "url": "https://akunacapital.com/careers",
-    "jobs": {
-      "softwareEngineer": {
         "intern": {
-          "available": true
+          "available": false
         },
         "newGrad": {
-          "available": true,
-          "url": "https://akunacapital.com/job-details?gh_jid=2236978&gh_src=fcb01e3f1us"
+          "available": false
         },
         "senior": {
-          "available": true
+          "available": true,
+          "url": "https://jobs.lever.co/runtheworld/6e7b47da-aa7a-4c68-8d18-f25dc356be9f"
         },
         "manager": {
-          "available": true
+          "available": false
         }
       }
     }
