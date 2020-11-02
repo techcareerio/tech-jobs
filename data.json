@@ -72,6 +72,45 @@
       }
     }
   },
+  "Duolingo": {
+    "url": "https://boards.greenhouse.io/duolingo",
+    "jobs": {
+      "softwareEngineer": {
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": true
+        }
+      },
+      "dataScientist": {
+        "intern": {
+          "available": true,
+          "url": "https://boards.greenhouse.io/duolingo/jobs/4833035002"
+        },
+        "newGrad": {
+          "available": true,
+          "url": "https://boards.greenhouse.io/duolingo/jobs/4833054002"
+        },
+        "manager": {
+          "available": true,
+          "url": "https://boards.greenhouse.io/duolingo/jobs/4577158002"
+        }
+      },
+      "productManager": {
+        "intern": {
+          "available": true,
+          "url": "https://boards.greenhouse.io/duolingo/jobs/4833225002"
+        },
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": true
+        }
+      }
+    }
+  },
   "Figma": {
     "url": "https://jobs.lever.co/figma",
     "jobs": {
@@ -100,6 +139,38 @@
         "senior": {
           "available": true,
           "url": "https://icebreaker.video/product-engineer"
+        }
+      }
+    }
+  },
+  "Palantir": {
+    "url": "https://jobs.lever.co/palantir",
+    "jobs": {
+      "softwareEngineer": {
+        "intern": {
+          "available": true,
+          "url": "https://jobs.lever.co/palantir/72018fcf-e777-4696-956c-a764966a4c75"
+        },
+        "newGrad": {
+          "available": true,
+          "url": "https://jobs.lever.co/palantir/01dab70c-073c-4a22-bf76-fb6b9e0a75b0"
+        },
+        "senior": {
+          "available": true
+        }
+      }
+    }
+  },
+  "Pinterest": {
+    "url": "https://www.pinterestcareers.com/jobs/search?page=1&department_uids%5B%5D=70a034e7e24e66ce7ab45e19a7cd484d&country_codes%5B%5D=US&query=",
+    "jobs": {
+      "softwareEngineer": {
+        "newGrad": {
+          "available": true,
+          "url": "https://www.pinterestcareers.com/jobs/university-grad-software-engineer-palo-alto-california-united-states-san-francisco-seattle-washington-toronto-ontario-canada"
+        },
+        "manager": {
+          "available": true
         }
       }
     }
@@ -134,6 +205,24 @@
         },
         "newGrad": {
           "available": false
+        },
+        "senior": {
+          "available": true,
+          "url": "https://jobs.lever.co/runtheworld/6e7b47da-aa7a-4c68-8d18-f25dc356be9f"
+        },
+        "manager": {
+          "available": false
+        }
+      }
+    }
+  },
+  "Qualtrics": {
+    "url": "https://www.qualtrics.com/careers/us/en/search-results",
+    "jobs": {
+      "softwareEngineer": {
+        "newGrad": {
+          "available": true,
+          "url": "https://www.qualtrics.com/careers/us/en/job/260179/Software-Engineer-New-Grad-Seattle-WA"
         },
         "senior": {
           "available": true,
