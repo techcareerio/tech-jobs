@@ -51,6 +51,18 @@
   "Didi": {
     "url": "https://boards.greenhouse.io/didi",
     "jobs": {
+      "softwareEngineer": {
+        "newGrad": {
+          "available": true,
+          "url": "https://boards.greenhouse.io/didi/jobs/2281086"
+        },
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": true
+        }
+      },
       "dataScientist": {
         "senior": {
           "available": true,
@@ -65,6 +77,39 @@
       "softwareEngineer": {
         "senior": {
           "available": true
+        },
+        "manager": {
+          "available": true
+        }
+      }
+    }
+  },
+  "DoorDash": {
+    "url": "https://www.doordash.com/careers/",
+    "jobs": {
+      "softwareEngineer": {
+        "senior": {
+          "available": true,
+          "url": "https://boards.greenhouse.io/doordash/jobs/2335666"
+        },
+        "manager": {
+          "available": true
+        }
+      },
+      "dataScientist": {
+        "intern": {
+          "available": true,
+          "url": "https://boards.greenhouse.io/doordash/jobs/2417125"
+        },
+        "senior": {
+          "available": true,
+          "url": "https://boards.greenhouse.io/doordash/jobs/2173764"
+        }
+      },
+      "productManager": {
+        "senior": {
+          "available": true,
+          "url": "https://boards.greenhouse.io/doordash/jobs/44844"
         },
         "manager": {
           "available": true
@@ -133,12 +178,59 @@
       }
     }
   },
+  "IXL Learning": {
+    "url": "https://www.ixl.com/company/careers",
+    "jobs": {
+      "softwareEngineer": {
+        "newGrad": {
+          "available": true,
+          "url": "https://www.ixl.com/company/careers?gh_jid=4776947002&gh_src=e358d0722"
+        },
+        "senior": {
+          "available": true,
+          "url": "https://www.ixl.com/company/careers?gh_jid=4761771002"
+        },
+        "manager": {
+          "available": true,
+          "url": "https://www.ixl.com/company/careers?gh_jid=4908984002"
+        }
+      }
+    }
+  },
   "Icebreaker": {
     "jobs": {
       "softwareEngineer": {
         "senior": {
           "available": true,
           "url": "https://icebreaker.video/product-engineer"
+        }
+      }
+    }
+  },
+  "Lyft": {
+    "url": "https://www.lyft.com/careers",
+    "jobs": {
+      "softwareEngineer": {
+        "intern": {
+          "available": true,
+          "url": "https://boards.greenhouse.io/lyft/jobs/4832208002?gh_jid=4832208002"
+        },
+        "senior": {
+          "available": true,
+          "url": "https://boards.greenhouse.io/lyft/jobs/4661911002?gh_jid=4661911002"
+        },
+        "manager": {
+          "available": true
+        }
+      },
+      "dataScientist": {
+        "senior": {
+          "available": true
+        }
+      },
+      "productManager": {
+        "senior": {
+          "available": true
         }
       }
     }
@@ -193,6 +285,45 @@
         "manager": {
           "available": true
         }
+      },
+      "dataScientist": {
+        "senior": {
+          "available": true,
+          "url": "https://robinhood.com/us/en/careers/openings/?gh_jid=2305097"
+        }
+      },
+      "productManager": {
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": true
+        }
+      }
+    }
+  },
+  "Rubik": {
+    "url": "https://www.rubrik.com/en/company/careers",
+    "jobs": {
+      "softwareEngineer": {
+        "intern": {
+          "available": true,
+          "url": "https://www.rubrik.com/en/company/careers/departments/job.2331219.1929"
+        },
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": true
+        }
+      },
+      "productManager": {
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": true
+        }
       }
     }
   },
@@ -216,6 +347,33 @@
       }
     }
   },
+  "Stripe": {
+    "url": "https://stripe.com/jobs/search",
+    "jobs": {
+      "softwareEngineer": {
+        "intern": {
+          "available": true,
+          "url": "https://stripe.com/jobs/listing/2021-amer-software-engineering-intern/2162713"
+        },
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": true
+        }
+      },
+      "dataScientist": {
+        "senior": {
+          "available": true
+        }
+      },
+      "productManager": {
+        "senior": {
+          "available": true
+        }
+      }
+    }
+  },
   "Qualtrics": {
     "url": "https://www.qualtrics.com/careers/us/en/search-results",
     "jobs": {
@@ -234,6 +392,27 @@
       }
     }
   },
+  "Quora": {
+    "url": "https://www.quora.com/careers",
+    "jobs": {
+      "softwareEngineer": {
+        "newGrad": {
+          "available": true,
+          "url": "https://boards.greenhouse.io/quora/jobs/4869747002"
+        },
+        "senior": {
+          "available": true,
+          "url": "https://boards.greenhouse.io/quora/jobs/4885322002"
+        }
+      },
+      "dataScientist": {
+        "senior": {
+          "available": true,
+          "url": "https://boards.greenhouse.io/quora/jobs/4505570002"
+        }
+      }
+    }
+  },
   "TikTok": {
     "url": "https://careers.tiktok.com/position?category=6704215862603155720",
     "jobs": {
@@ -242,6 +421,44 @@
           "available": true
         },
         "manager": {
+          "available": true
+        }
+      }
+    }
+  },
+  "VMware": {
+    "url": "https://careers.robinhood.com/openings",
+    "jobs": {
+      "softwareEngineer": {
+        "newGrad": {
+          "available": true
+        },
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": true
+        }
+      }
+    }
+  },
+  "Walmart": {
+    "url": "https://careers.walmart.com/",
+    "jobs": {
+      "softwareEngineer": {
+        "newGrad": {
+          "available": true,
+          "url": "https://careers.walmart.com/us/jobs/WD294738-2021-campus-software-engineer"
+        },
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": true
+        }
+      },
+      "dataScientist": {
+        "senior": {
           "available": true
         }
       }
@@ -261,9 +478,6 @@
         },
         "senior": {
           "available": true
-        },
-        "manager": {
-          "available": false
         }
       }
     }
