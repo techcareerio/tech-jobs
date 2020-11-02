@@ -426,6 +426,34 @@
       }
     }
   },
+  "Uber": {
+    "url": "https://www.uber.com/us/en/careers/",
+    "jobs": {
+      "softwareEngineer": {
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": true,
+          "url": "https://www.uber.com/global/en/careers/list/63306/"
+        }
+      },
+      "dataScientist": {
+        "intern": {
+          "available": true,
+          "url": "https://www.uber.com/global/en/careers/list/63882/"
+        },
+        "senior": {
+          "available": true
+        }
+      },
+      "productManager": {
+        "senior": {
+          "available": true
+        }
+      }
+    }
+  },
   "VMware": {
     "url": "https://careers.robinhood.com/openings",
     "jobs": {
