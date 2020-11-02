@@ -1,24 +1,5 @@
 {
   "Akuna Capital": {
-    "Brex": {
-      "url": "https://www.brex.com/careers/",
-      "jobs": {
-        "softwareEngineer": {
-          "intern": {
-            "available": false
-          },
-          "newGrad": {
-            "available": false
-          },
-          "senior": {
-            "available": true
-          },
-          "manager": {
-            "available": true
-          }
-        }
-      }
-    },
     "url": "https://akunacapital.com/careers",
     "jobs": {
       "softwareEngineer": {
@@ -28,6 +9,25 @@
         "newGrad": {
           "available": true,
           "url": "https://akunacapital.com/job-details?gh_jid=2236978&gh_src=fcb01e3f1us"
+        },
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": true
+        }
+      }
+    }
+  },
+  "Brex": {
+    "url": "https://www.brex.com/careers/",
+    "jobs": {
+      "softwareEngineer": {
+        "intern": {
+          "available": false
+        },
+        "newGrad": {
+          "available": false
         },
         "senior": {
           "available": true
