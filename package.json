@@ -1,0 +1,14 @@
+{
+  "name": "tech-jobs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:techcareerio/tech-jobs.git",
+  "author": "Cat Chen <catchen@catchen.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  },
+  "scripts": {
+    "build": "npx tsc"
+  }
+}
