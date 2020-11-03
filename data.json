@@ -276,6 +276,10 @@
     "url": "https://careers.microsoft.com/us/en/",
     "jobs": {
       "softwareEngineer": {
+        "intern": {
+          "available": true,
+          "url": "https://careers.microsoft.com/us/en/job/870957/Internship-Opportunities-for-Students-Software-Engineer"
+        },
         "newGrad": {
           "available": true,
           "url": "https://careers.microsoft.com/students/us/en/job/870956/Full-Time-Opportunities-for-Students-and-Recent-Graduates-Software-Engineer"
