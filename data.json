@@ -156,6 +156,43 @@
       }
     }
   },
+  "Facebook": {
+    "url": "https://www.facebook.com/careers/",
+    "jobs": {
+      "softwareEngineer": {
+        "intern": {
+          "available": true,
+          "url": "https://www.facebook.com/careers/jobs/654496918442526/"
+        },
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": true
+        }
+      },
+      "dataScientist": {
+        "intern": {
+          "available": true,
+          "url": "https://www.facebook.com/careers/jobs/559291598091589/"
+        },
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": true
+        }
+      },
+      "productManager": {
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": true
+        }
+      }
+    }
+  },
   "Figma": {
     "url": "https://jobs.lever.co/figma",
     "jobs": {
@@ -236,7 +273,7 @@
     }
   },
   "Microsoft": {
-    "url": "https://careers.robinhood.com/openings",
+    "url": "https://careers.microsoft.com/us/en/",
     "jobs": {
       "softwareEngineer": {
         "newGrad": {
