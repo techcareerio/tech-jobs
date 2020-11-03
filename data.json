@@ -253,6 +253,41 @@
       }
     }
   },
+  "PayPal": {
+    "url": "https://paypalcareers.dejobs.org/jobs/?location=United%20States",
+    "jobs": {
+      "softwareEngineer": {
+        "intern": {
+          "available": true,
+          "url": "https://paypalcareers.dejobs.org/software-engineer-intern/jobs-in/usa/jobs/"
+        },
+        "newGrad": {
+          "available": true,
+          "url": "https://paypalcareers.dejobs.org/software-engineer-university-graduate/jobs-in/usa/jobs/"
+        },
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": true
+        }
+      },
+      "dataScientist": {
+        "senior": {
+          "available": true
+        }
+      },
+      "productManager": {
+        "intern": {
+          "available": true,
+          "url": "https://paypalcareers.dejobs.org/product-manager-intern/jobs-in/usa/jobs/"
+        },
+        "senior": {
+          "available": true
+        }
+      }
+    }
+  },
   "Pinterest": {
     "url": "https://www.pinterestcareers.com/jobs/search?page=1&department_uids%5B%5D=70a034e7e24e66ce7ab45e19a7cd484d&country_codes%5B%5D=US&query=",
     "jobs": {
