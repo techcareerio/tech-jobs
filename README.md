@@ -1,10 +1,12 @@
 # Tech Jobs
 
-This is a list of technology jobs (Software Engineer, Data Scientist, Product Manager). Raw data is stored in [`data.json`](https://github.com/techcareerio/tech-jobs/blob/main/data.json).
+This is a list of technology jobs (Software Engineer, Data Scientist, Product Manager). Please visit this website if you just want to check out the list: [https://techcareer.io/jobs](https://techcareer.io/jobs).
+
+Raw data is stored in [`data.json`](https://github.com/techcareerio/tech-jobs/blob/main/data.json) in this project. The following information is for people who want to contribute by adding new companies and jobs to the list.
 
 ## How to use this dataset?
 
-We plan to publish the data in a way that can be searched and filtered soon.
+We publish the data to our website: [https://techcareer.io/jobs](https://techcareer.io/jobs). We plan to add filter and search soon.
 
 ## How to contribute?
 
