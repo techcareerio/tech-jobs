@@ -235,6 +235,17 @@
       }
     }
   },
+  "Microsoft": {
+    "url": "https://careers.robinhood.com/openings",
+    "jobs": {
+      "softwareEngineer": {
+        "newGrad": {
+          "available": true,
+          "url": "https://careers.microsoft.com/students/us/en/job/870956/Full-Time-Opportunities-for-Students-and-Recent-Graduates-Software-Engineer"
+        }
+      }
+    }
+  },
   "Palantir": {
     "url": "https://jobs.lever.co/palantir",
     "jobs": {
