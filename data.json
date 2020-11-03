@@ -156,6 +156,43 @@
       }
     }
   },
+  "Facebook": {
+    "url": "https://www.facebook.com/careers/",
+    "jobs": {
+      "softwareEngineer": {
+        "intern": {
+          "available": true,
+          "url": "https://www.facebook.com/careers/jobs/654496918442526/"
+        },
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": true
+        }
+      },
+      "dataScientist": {
+        "intern": {
+          "available": true,
+          "url": "https://www.facebook.com/careers/jobs/559291598091589/"
+        },
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": true
+        }
+      },
+      "productManager": {
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": true
+        }
+      }
+    }
+  },
   "Figma": {
     "url": "https://jobs.lever.co/figma",
     "jobs": {
@@ -235,6 +272,21 @@
       }
     }
   },
+  "Microsoft": {
+    "url": "https://careers.microsoft.com/us/en/",
+    "jobs": {
+      "softwareEngineer": {
+        "intern": {
+          "available": true,
+          "url": "https://careers.microsoft.com/us/en/job/870957/Internship-Opportunities-for-Students-Software-Engineer"
+        },
+        "newGrad": {
+          "available": true,
+          "url": "https://careers.microsoft.com/students/us/en/job/870956/Full-Time-Opportunities-for-Students-and-Recent-Graduates-Software-Engineer"
+        }
+      }
+    }
+  },
   "Palantir": {
     "url": "https://jobs.lever.co/palantir",
     "jobs": {
@@ -246,6 +298,41 @@
         "newGrad": {
           "available": true,
           "url": "https://jobs.lever.co/palantir/01dab70c-073c-4a22-bf76-fb6b9e0a75b0"
+        },
+        "senior": {
+          "available": true
+        }
+      }
+    }
+  },
+  "PayPal": {
+    "url": "https://paypalcareers.dejobs.org/jobs/?location=United%20States",
+    "jobs": {
+      "softwareEngineer": {
+        "intern": {
+          "available": true,
+          "url": "https://paypalcareers.dejobs.org/software-engineer-intern/jobs-in/usa/jobs/"
+        },
+        "newGrad": {
+          "available": true,
+          "url": "https://paypalcareers.dejobs.org/software-engineer-university-graduate/jobs-in/usa/jobs/"
+        },
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": true
+        }
+      },
+      "dataScientist": {
+        "senior": {
+          "available": true
+        }
+      },
+      "productManager": {
+        "intern": {
+          "available": true,
+          "url": "https://paypalcareers.dejobs.org/product-manager-intern/jobs-in/usa/jobs/"
         },
         "senior": {
           "available": true
