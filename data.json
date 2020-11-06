@@ -48,6 +48,23 @@
       }
     }
   },
+  {
+    "Confluent": {
+    "url": "https://www.confluent.io/careers",
+    "jobs": {
+      "softwareEngineer": {
+        "intern": {
+          "available": true
+        },
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": true
+        }
+      }
+    }
+  },
   "Didi": {
     "url": "https://boards.greenhouse.io/didi",
     "jobs": {
