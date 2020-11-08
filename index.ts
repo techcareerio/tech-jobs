@@ -1,18 +1,18 @@
 import rawData from "./data.json";
 
-type Opening = {
+export type Opening = {
   available: boolean;
   url?: string;
 };
 
-type Job = {
+export type Job = {
   intern?: Opening;
   newGrad?: Opening;
   senior?: Opening;
   manager?: Opening;
 };
 
-type Company = {
+export type Company = {
   url?: string;
   jobs: {
     softwareEngineer?: Job;
