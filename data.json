@@ -48,6 +48,29 @@
       }
     }
   },
+  "DRW": {
+    "url": "https://drw.com/careers",
+    "jobs": {
+      "softwareEngineer": {
+        "intern": {
+          "available": true,
+          "url": "https://drw.com/careers/job/1350323"
+        },
+        "newGrad": {
+          "available": true,
+          "url": "https://drw.com/careers/job/1352350"
+        },
+        "senior": {
+          "available": true,
+          "url": "https://drw.com/careers/job/1471769"
+        },
+        "manager": {
+          "available": true,
+          "url": "https://drw.com/careers/job/1354941"
+        }
+      }
+    }
+  },
   "Didi": {
     "url": "https://boards.greenhouse.io/didi",
     "jobs": {
@@ -215,6 +238,28 @@
       }
     }
   },
+  "IMC": {
+    "url": "https://careers.imc.com/us/en/c/graduates-jobs?s=1",
+    "jobs": {
+      "softwareEngineer": {
+        "intern": {
+          "available": true,
+          "url": "https://careers.imc.com/us/en/job/REQ-00813/Software-Engineer-Intern-Summer-2021"
+        },
+        "newGrad": {
+          "available": true,
+          "url": "https://careers.imc.com/us/en/job/REQ-00852/Graduate-Software-Engineer"
+        },
+        "senior": {
+          "available": true,
+          "url": "https://careers.imc.com/us/en/job/REQ-00351/Java-Software-Engineer"
+        },
+        "manager": {
+          "available": false
+        }
+      }
+    }
+  },
   "IXL Learning": {
     "url": "https://www.ixl.com/company/careers",
     "jobs": {
@@ -240,6 +285,27 @@
         "senior": {
           "available": true,
           "url": "https://icebreaker.video/product-engineer"
+        }
+      }
+    }
+  },
+  "Jane Street": {
+    "url": "https://www.janestreet.com/join-jane-street/",
+    "jobs": {
+      "softwareEngineer": {
+        "intern": {
+          "available": false
+        },
+        "newGrad": {
+          "available": true,
+          "url": "https://www.janestreet.com/join-jane-street/position/4743431002/"
+        },
+        "senior": {
+          "available": true,
+          "url": "https://www.janestreet.com/join-jane-street/position/4274288002/"
+        },
+        "manager": {
+          "available": false
         }
       }
     }
@@ -593,72 +659,6 @@
         },
         "senior": {
           "available": true
-        }
-      }
-    }
-  },
-  "DRW": {
-    "url": "https://drw.com/careers",
-    "jobs": {
-      "softwareEngineer": {
-        "intern": {
-          "available": true,
-          "url": "https://drw.com/careers/job/1350323"
-        },
-        "newGrad": {
-          "available": true,
-          "url": "https://drw.com/careers/job/1352350"
-        },
-        "senior": {
-          "available": true,
-          "url": "https://drw.com/careers/job/1471769"
-        },
-        "manager": {
-          "available": true, 
-          "url": "https://drw.com/careers/job/1354941"
-        }
-      }
-    }
-  },
-  "IMC": {
-    "url": "https://careers.imc.com/us/en/c/graduates-jobs?s=1",
-    "jobs": {
-      "softwareEngineer": {
-        "intern": {
-          "available": true,
-          "url": "https://careers.imc.com/us/en/job/REQ-00813/Software-Engineer-Intern-Summer-2021"
-        },
-        "newGrad": {
-          "available": true,
-          "url": "https://careers.imc.com/us/en/job/REQ-00852/Graduate-Software-Engineer"
-        },
-        "senior": {
-          "available": true,
-          "url": "https://careers.imc.com/us/en/job/REQ-00351/Java-Software-Engineer"
-        },
-        "manager": {
-          "available": false
-        }
-      }
-    }
-  },
-  "Jane Street": {
-    "url": "https://www.janestreet.com/join-jane-street/",
-    "jobs": {
-      "softwareEngineer": {
-        "intern": {
-          "available": false
-        },
-        "newGrad": {
-          "available": true,
-          "url": "https://www.janestreet.com/join-jane-street/position/4743431002/"
-        },
-        "senior": {
-          "available": true,
-          "url": "https://www.janestreet.com/join-jane-street/position/4274288002/"
-        },
-        "manager": {
-          "available": false
         }
       }
     }
