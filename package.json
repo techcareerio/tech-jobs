@@ -2,6 +2,7 @@
   "name": "tech-jobs",
   "version": "1.0.0",
   "main": "index.js",
+  "types": "index.d.ts",
   "repository": "git@github.com:techcareerio/tech-jobs.git",
   "author": "Cat Chen <catchen@catchen.me>",
   "license": "MIT",
