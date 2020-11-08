@@ -48,6 +48,23 @@
       }
     }
   },
+  "Confluent": {
+    "url": "https://www.confluent.io/careers/",
+    "jobs": {
+      "softwareEngineer": {
+        "intern": {
+          "available": true,
+          "url": "https://jobs.lever.co/confluent?department=University%20Recruiting&team=Engineering"
+        },
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": true
+        }
+      }
+    }
+  },
   "Didi": {
     "url": "https://boards.greenhouse.io/didi",
     "jobs": {
