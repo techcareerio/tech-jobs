@@ -38,6 +38,16 @@
       }
     }
   },
+  "Color": {
+    "url": "https://jobs.lever.co/color",
+    "jobs": {
+      "softwareEngineer": {
+        "senior": {
+          "available": true
+        }
+      }
+    }
+  },
   "Confluent": {
     "url": "https://www.confluent.io/careers/",
     "jobs": {
@@ -50,16 +60,6 @@
           "available": true
         },
         "manager": {
-          "available": true
-        }
-      }
-    }
-  },
-  "Color": {
-    "url": "https://jobs.lever.co/color",
-    "jobs": {
-      "softwareEngineer": {
-        "senior": {
           "available": true
         }
       }
