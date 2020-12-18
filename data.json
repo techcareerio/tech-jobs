@@ -517,6 +517,31 @@
       }
     }
   },
+  "Scale AI": {
+    "url": "https://jobs.lever.co/scaleai/00155332-6cb7-4c4e-a403-20bc48a33a29",
+    "jobs": {
+      "softwareEngineer": {
+        "senior": {
+          "available": true,
+          "url": "https://jobs.lever.co/scaleai/00155332-6cb7-4c4e-a403-20bc48a33a29"
+        }
+      },
+      "dataScientist": {
+        "intern": {
+          "available": true,
+          "url": "https://scale.com/careers/a7f13b78-e9cc-4596-981f-674a12646c16"
+        },
+        "newGrad": {
+          "available": true,
+          "url": "https://scale.com/careers/671b9ad6-113f-4639-8911-99a548208aee"
+        },
+        "senior": {
+          "available": true,
+          "url": "https://scale.com/careers/5d709886-b586-44c7-b112-4e04501a4ca0"
+        }
+      }
+    }
+  },
   "Stripe": {
     "url": "https://stripe.com/jobs/search",
     "jobs": {
