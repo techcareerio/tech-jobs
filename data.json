@@ -124,6 +124,25 @@
       }
     }
   },
+  "DreamCraft Entertainment": {
+    "url": "https://www.dreamcraft.com/careers",
+    "jobs": {
+      "softwareEngineer": {
+        "intern": {
+          "available": true,
+          "url": "https://www.dreamcraft.com/careers/SE"
+        },
+        "newGrad": {
+          "available": true,
+          "url": "https://www.dreamcraft.com/careers/SE"
+        },
+        "senior": {
+          "available": true,
+          "url": "https://www.dreamcraft.com/careers/SE"
+        }
+      }
+    }
+  },
   "DoorDash": {
     "url": "https://www.doordash.com/careers/",
     "jobs": {
@@ -323,6 +342,21 @@
         },
         "manager": {
           "available": false
+        }
+      }
+    }
+  },
+  "Lifo.ai": {
+    "url": "https://www.linkedin.com/company/lifo-ai/jobs/",
+    "jobs": {
+      "softwareEngineer": {
+        "senior": {
+          "available": true,
+          "url": "https://www.linkedin.com/jobs/search/?currentJobId=2318346158&f_C=68561390&geoId=92000000"
+        },
+        "manager": {
+          "available": true,
+          "url": "https://www.linkedin.com/jobs/search/?currentJobId=2316881537&f_C=68561390&geoId=92000000"
         }
       }
     }
