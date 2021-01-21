@@ -38,6 +38,27 @@
       }
     }
   },
+  "ByteDance/Tiktok": {
+    "url": "https://job.toutiao.com/s/J7LBfB5",
+    "jobs": {
+      "softwareEngineer": {
+        "intern": {
+          "available": true,
+          "url": "https://careers.tiktok.com/position?project=6854152751179303182&type=3&current=1&limit=200"
+        },
+        "newGrad": {
+          "available": true,
+          "url": "https://careers.tiktok.com/position?project=6915220576183961870&type=2&current=1&limit=200"
+        },
+        "senior": {
+          "available": true
+        },
+        "manager": {
+          "available": true
+        }
+      }
+    }
+  },
   "Color": {
     "url": "https://jobs.lever.co/color",
     "jobs": {
