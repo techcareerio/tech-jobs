@@ -9,3 +9,4 @@ cache:
     - node_modules
 script:
   - yarn build
+  - yarn validate
