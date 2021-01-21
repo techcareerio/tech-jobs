@@ -21,6 +21,8 @@ export type Company = {
   };
 };
 
-export const data: {
+export type JobsData = {
   [name: string]: Company;
-} = rawData;
+};
+
+export const data: JobsData = rawData;
