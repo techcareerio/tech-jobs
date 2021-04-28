@@ -1,0 +1,16 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  assignees:
+  - catchen
+  ignore:
+  - dependency-name: ajv
+    versions:
+    - 7.1.0
+    - 8.0.1
+    - 8.0.3
+    - 8.1.0
