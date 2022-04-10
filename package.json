@@ -8,7 +8,7 @@
   "author": "Cat Chen <catchen@catchen.me>",
   "license": "MIT",
   "devDependencies": {
-    "ajv": "^8.10.0",
+    "ajv": "^8.11.0",
     "typescript": "^4.5.5"
   },
   "scripts": {
