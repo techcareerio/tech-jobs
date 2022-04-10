@@ -1,6 +1,6 @@
 import Ajv, { JSONSchemaType, DefinedError } from "ajv";
 import type { Opening, Job, Company, JobsData } from "./index";
-import data from "./data.json";
+import data from "./data.json" assert { type: "json" };
 
 const openingSchema: JSONSchemaType<Opening> = {
   type: "object",
