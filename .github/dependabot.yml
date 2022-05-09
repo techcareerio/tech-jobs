@@ -7,7 +7,7 @@ updates:
     reviewers:
       - catchen
     assignees:
-    - catchen
+      - catchen
 
   - package-ecosystem: "github-actions"
     directory: "/"
