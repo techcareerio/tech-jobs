@@ -109,13 +109,6 @@ jobs:
     with:
       ref: 'refs/heads/main'
 
-  eslint:
-    needs: [accept-to-ship, pass-to-ship]
-    if: ${{ !needs.accept-to-ship.outputs.skipped || !needs.pass-to-ship.outputs.skipped }}
-    uses: ./.github/workflows/eslint.yml
-    with:
-      ref: 'refs/heads/main'
-
   codeql:
     needs: [accept-to-ship, pass-to-ship]
     if: ${{ !needs.accept-to-ship.outputs.skipped || !needs.pass-to-ship.outputs.skipped }}
