@@ -13,7 +13,7 @@
     "typescript": "^4.9.4"
   },
   "scripts": {
-    "build": "npx tsc",
+    "build": "touch ./schemas.json && ts-json-schema-generator -f tsconfig.json -o ./schemas.json && npx tsc",
     "validate": "node --experimental-json-modules validate.js"
   }
 }
