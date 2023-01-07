@@ -1,0 +1,71 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "definitions": {
+    "Company": {
+      "additionalProperties": false,
+      "properties": {
+        "jobs": {
+          "additionalProperties": false,
+          "properties": {
+            "dataScientist": {
+              "$ref": "#/definitions/Job"
+            },
+            "productManager": {
+              "$ref": "#/definitions/Job"
+            },
+            "softwareEngineer": {
+              "$ref": "#/definitions/Job"
+            }
+          },
+          "type": "object"
+        },
+        "url": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "jobs"
+      ],
+      "type": "object"
+    },
+    "Job": {
+      "additionalProperties": false,
+      "properties": {
+        "intern": {
+          "$ref": "#/definitions/Opening"
+        },
+        "manager": {
+          "$ref": "#/definitions/Opening"
+        },
+        "newGrad": {
+          "$ref": "#/definitions/Opening"
+        },
+        "senior": {
+          "$ref": "#/definitions/Opening"
+        }
+      },
+      "type": "object"
+    },
+    "JobsData": {
+      "additionalProperties": {
+        "$ref": "#/definitions/Company"
+      },
+      "type": "object"
+    },
+    "Opening": {
+      "additionalProperties": false,
+      "properties": {
+        "available": {
+          "type": "boolean"
+        },
+        "url": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "available"
+      ],
+      "type": "object"
+    }
+  }
+}
