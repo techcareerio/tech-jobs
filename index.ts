@@ -1,5 +1,5 @@
 import rawData from './data.json';
-import generatedSchema from './schemas.json';
+import generatedSchema from './schema.json';
 
 import { Schema } from 'ajv';
 
