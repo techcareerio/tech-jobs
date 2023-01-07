@@ -1,0 +1,12 @@
+{
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-action.json": "action.yml",
+    "schemas.json": "data.json"
+  },
+  "json.schemas": [
+    {
+      "fileMatch": ["/data.json"],
+      "url": "./schema.json"
+    }
+  ]
+}
