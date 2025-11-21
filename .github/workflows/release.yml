@@ -56,7 +56,7 @@ jobs:
       tag: ${{ steps.release.outputs.tag }}
       skipped: ${{ steps.release.outputs.skipped }}
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
         with:
           ref: 'main'
           fetch-depth: 0
@@ -77,11 +77,11 @@ jobs:
     if: ${{ needs.release.outputs.skipped != 'true' }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
         if: ${{ !inputs.dry-run }}
         with:
           ref: ${{ needs.release.outputs.tag }}
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
         if: ${{ inputs.dry-run }}
         with:
           ref: ${{ github.ref_name || github.ref }}
